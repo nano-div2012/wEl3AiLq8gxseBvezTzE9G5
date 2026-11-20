@@ -1,6 +1,8 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
+  "appName": "X TKJ",
+  "packageName": "com.xtkj.palapa",
   "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "permissions": [
+    "notification"
+  ]
 }
